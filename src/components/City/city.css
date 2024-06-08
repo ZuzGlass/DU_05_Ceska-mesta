@@ -1,0 +1,16 @@
+.city {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    color: #f15bb5;
+}
+
+p {
+    font-style: italic;
+}
+
+.photo {
+    width: 10rem;
+}
